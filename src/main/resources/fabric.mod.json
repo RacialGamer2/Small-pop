@@ -22,9 +22,7 @@
       "net.racialgamer.cheese.Smallpop"
     ]
   },
-  "mixins": [
-    "smallpop.mixins.json"
-  ],
+  "mixins": [],
 
   "depends": {
     "fabricloader": ">=0.14.6",
