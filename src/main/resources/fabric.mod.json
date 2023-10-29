@@ -17,12 +17,17 @@
   "icon": "assets/smallpop/icon.png",
 
   "environment": "*",
-  "entrypoints": {
+   "entrypoints": {
     "main": [
-      "net.racialgamer.cheese.Smallpop"
+      "net.racialgamer.smallpop.Smallpop"
+    ],
+    "modmenu": [
+      "net.racialgamer.smallpop.config.ModMenu"
     ]
   },
-  "mixins": [],
+  "mixins": [
+    "smallpop.mixins.json"
+  ],
 
   "depends": {
     "fabricloader": ">=0.14.21",
