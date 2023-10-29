@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.smallpop.title": "Small View Model Config",
+  "text.autoconfig.smallpop.option.popSize.@PrefixText": "Totem Pop Size",
+  "text.autoconfig.smallpop.option.popSize": "Edit the Pop Size of your Totem",
+  "text.autoconfig.smallpop.option.totemSize.@PrefixText": "Totem Size",
+  "text.autoconfig.smallpop.option.totemSize": "Edit the Size of the Totem"
+}
